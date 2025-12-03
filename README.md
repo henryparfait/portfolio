@@ -1,4 +1,4 @@
-# ⚡ Henry's Portfolio V2
+# ⚡ Henry's Portfolio 
 
 My professional portfolio built with React, Vite, and Tailwind CSS.
 
@@ -13,12 +13,11 @@ My professional portfolio built with React, Vite, and Tailwind CSS.
 2. Install dependencies:
    ```bash
    npm install
-Start the server:
-
-Bash
-
+3.Start the server:
+```bash
 npm run dev
-📦 Deployment
+
+## 📦 Deployment
 This project is deployed to GitHub Pages. Run npm run deploy to update the live site.
 
 
