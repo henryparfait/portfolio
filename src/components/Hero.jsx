@@ -43,7 +43,7 @@ const Hero = () => {
             <Github size={28} />
           </a>
           <a 
-            href="https://www.linkedin.com/in/henry-christian-parfait-uhiriwe-2a6340238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" // Update this later
+            href="https://www.linkedin.com/in/henry-christian-parfait-uhiriwe-2a6340238" // Update this later
             target="_blank" 
             rel="noopener noreferrer"
             className="p-4 border border-slate-700 rounded-full hover:bg-slate-800 hover:text-primary transition-all duration-300 hover:scale-110"
