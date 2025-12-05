@@ -25,7 +25,9 @@ const Hero = () => {
 
         <div className="mb-8">
             <a 
-              href="/./src/assets/Henry's_IT_Resume.pdf"
+              href="/portfolio/resume.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
               className="inline-flex items-center gap-2 bg-primary/10 border border-primary text-primary px-6 py-3 rounded-full font-bold hover:bg-primary hover:text-white transition-all duration-300"
               >
                 Download CV <div className="animate-bounce">↓</div>
